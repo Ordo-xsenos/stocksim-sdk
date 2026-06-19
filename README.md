@@ -1,6 +1,6 @@
 # stocksim-sdk
 
-Official async Python SDK for [StockSim Pro](https://stocksim.pro).
+Official async Python SDK for StockSimulator.
 
 - Python 3.13+
 - Async-first (`asyncio` / `httpx`)
